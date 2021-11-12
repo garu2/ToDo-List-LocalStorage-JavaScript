@@ -1,9 +1,9 @@
 # Carrito-de-Compras-JavaScript
-Hacemos un ToDo List con JavaCript y usando LocalStorage
+Hacemos un ToDo List con JavaScript y usando LocalStorage
 
 **Tutorial**
 <br/><br/>
-https://youtu.be/2V893ODC2UY
+https://youtu.be/xVwp_6ubgz0
 <br/><br/>
 **Demo**
 
