@@ -1,4 +1,4 @@
-# Carrito-de-Compras-JavaScript
+# ToDo-List LocalStorage JavaScript
 Hacemos un ToDo List con JavaScript y usando LocalStorage
 
 **Tutorial**
