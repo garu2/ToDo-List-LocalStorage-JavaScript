@@ -112,3 +112,15 @@ body{
     border: solid 2px red;
     border-radius: 2px;
 }
+
+p.author {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    gap: 7px;
+}
+p.author a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #000;
+}
